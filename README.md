@@ -2,6 +2,12 @@
 
 This is a clone of the official [Apple AirPods Pro](https://www.apple.com/in/airpods-pro/) website.
 
+## Screenshots
+![Header](./screenshot_1.png?raw=true "Header")
+![Second](./screenshot_2.png?raw=true "Second")
+![Third](./screenshot_3.png?raw=true "Third")
+![Forth](./screenshot_4.png?raw=true "Forth")
+
 #### ➡️ Live Link: https://anushkachauhxn.github.io/airpods-pro-website
 
 ## 💡 My process
